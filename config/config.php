@@ -66,7 +66,7 @@ $config['db']['database'] =  "checkerbot";
 | Value is in Seconds. "20" = 20seconds
 |
 */
-$config['anti_spam_timer'] =  "20";
+$config['anti_spam_timer'] =  "0";
 
 /*
 |--------------------------------------------------------------------------
